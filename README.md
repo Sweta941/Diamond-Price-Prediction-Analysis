@@ -389,4 +389,7 @@ See `requirements.txt` for exact dependency versions. The analysis was developed
 ```
 
 ---
+## 👤 Author
 
+**[Sweta Mehta]**  
+Data Science Portfolio Project  

@@ -41,7 +41,7 @@ In the diamond industry, pricing is traditionally determined through subjective 
 - **Opaque**: Difficult for buyers to understand price justification
 - **Inefficient**: Leaves margin optimization opportunities on the table
 
-**Solution**: Develop a data-driven model that:
+**Solution**: Develop a data-driven model that: 
 ✓ Predicts prices accurately and consistently  
 ✓ Reduces appraisal time to minutes  
 ✓ Provides interpretable insights into price drivers  

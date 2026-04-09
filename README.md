@@ -20,8 +20,7 @@
 - [Installation & Usage](#installation--usage)
 - [Project Structure](#project-structure)
 - [Technologies & Libraries](#technologies--libraries)
-- [Future Improvements](#future-improvements)
-- [Contact](#contact)
+
 
 ---
 
@@ -42,6 +41,7 @@ In the diamond industry, pricing is traditionally determined through subjective 
 - **Inefficient**: Leaves margin optimization opportunities on the table
 
 **Solution**: Develop a data-driven model that: 
+
 ✓ Predicts prices accurately and consistently  
 ✓ Reduces appraisal time to minutes  
 ✓ Provides interpretable insights into price drivers  
@@ -426,51 +426,7 @@ See `requirements.txt` for exact dependency versions. The analysis was developed
 
 ---
 
-## 🚀 Future Improvements
 
-### Short-term (High Priority)
-- [ ] Add prediction uncertainty quantification (confidence intervals)
-- [ ] Create API endpoint for real-time predictions (Flask/FastAPI)
-- [ ] Implement automated retraining pipeline for production
-- [ ] Add more sophisticated feature selection (SHAP values, permutation importance)
-
-### Medium-term
-- [ ] Expand dataset: Include certifications (GIA, AGS), fluorescence, geographic data
-- [ ] Time series analysis: Model price trends across market cycles
-- [ ] Segmented models: Build separate models for different carat ranges
-- [ ] Ensemble methods: Combine multiple models for improved robustness
-- [ ] Feature interactions: Explicitly model carat × quality interactions
-
-### Long-term (Advanced Applications)
-- [ ] Implement demand forecasting alongside price prediction
-- [ ] Create dynamic pricing recommendation system
-- [ ] Build portfolio optimization tool for retailers
-- [ ] Develop anomaly detection for unusual market movements
-- [ ] Integrate with market data APIs for real-time updates
-
-### Infrastructure
-- [ ] Containerize model (Docker) for deployment
-- [ ] Set up CI/CD pipeline (GitHub Actions)
-- [ ] Create monitoring dashboard for model performance
-- [ ] Implement A/B testing framework for model updates
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The dataset (`diamonds.csv`) is publicly available and used for educational purposes.
-
----
-
-## 📧 Contact & Questions
-
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/your-username]
-
-Feel free to reach out with questions, suggestions, or collaborations!
 
 ---
 
@@ -481,19 +437,6 @@ Feel free to reach out with questions, suggestions, or collaborations!
 - Built with best practices in ML modeling, validation, and reproducibility
 
 ---
-
-## 📚 Related Resources
-
-### Helpful References
-- [Scikit-learn Documentation](https://scikit-learn.org/)
-- [XGBoost Documentation](https://xgboost.readthedocs.io/)
-- [Feature Engineering for Machine Learning](https://www.featuretools.com/)
-- [Cross-Validation in ML](https://scikit-learn.org/stable/modules/cross_validation.html)
-
-### Similar Projects
-- House Price Prediction (Linear Regression)
-- Stock Price Forecasting (Time Series)
-- Customer Lifetime Value Prediction (Regression)
 
 ---
 
@@ -514,11 +457,6 @@ Feel free to reach out with questions, suggestions, or collaborations!
 ║ Overfitting:        Minimal (<2%)      ║
 ╚════════════════════════════════════════╝
 ```
-
----
-
-**Last Updated**: March 2024  
-**Status**: ✅ Complete and Production-Ready
 
 ---
 

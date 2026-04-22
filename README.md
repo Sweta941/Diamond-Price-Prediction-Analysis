@@ -20,7 +20,6 @@
 - [Project Structure](#project-structure)
 - [Technologies & Libraries](#technologies--libraries)
 
-
 ---
 
 ## 🎯 Overview

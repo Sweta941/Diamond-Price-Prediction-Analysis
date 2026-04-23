@@ -260,8 +260,6 @@ At 2.0 carats:  Each additional carat adds ~$15,000+
 
 ---
 
----
-
 ## 📁 Project Structure
 
 ```

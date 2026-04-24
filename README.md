@@ -362,7 +362,6 @@ See `requirements.txt` for exact dependency versions. The analysis was developed
 
 ---
 
-
 ## 📈 Results at a Glance
 
 ```

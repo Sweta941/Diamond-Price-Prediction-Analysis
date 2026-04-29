@@ -367,7 +367,7 @@ See `requirements.txt` for exact dependency versions. The analysis was developed
 ╔════════════════════════════════════════╗
 ║    DIAMOND PRICE PREDICTION RESULTS    ║
 ╠════════════════════════════════════════╣
-║ Model:              Gradient Boosting   ║
+║ Model:              Gradient Boosting  ║
 ║ Accuracy (R²):      0.93 (93%)         ║
 ║ MAE:                $1,189             ║
 ║ RMSE:               $1,620             ║
